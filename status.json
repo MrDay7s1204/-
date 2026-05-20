@@ -1,11 +1,31 @@
 {
   "overall": "ok",
-  "reason": "All Services Are Working Corectly!",
+  "reason": "All Services Are Working Correctly!",
   "services": [
-    { "name": "Вебсайт",      "status": "ok", "icon": "web"      },
-    { "name": "GitHub",       "status": "ok", "icon": "github"   },
-    { "name": "Релізи / APK", "status": "ok", "icon": "apk"      },
-    { "name": "Сервер",       "status": "ok", "icon": "server"   },
-    { "name": "Дзеркало",     "status": "ok", "icon": "дзеркало" }
+    {
+      "name": "Вебсайт",
+      "status": "ok",
+      "icon": "web"
+    },
+    {
+      "name": "GitHub",
+      "status": "ok",
+      "icon": "github"
+    },
+    {
+      "name": "CloudFlare EndPoint Api",
+      "status": "ok",
+      "icon": "apk"
+    },
+    {
+      "name": "Сервер",
+      "status": "ok",
+      "icon": "server"
+    },
+    {
+      "name": "Дзеркало",
+      "status": "ok",
+      "icon": "default"
+    }
   ]
 }
