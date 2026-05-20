@@ -24,7 +24,7 @@
     },
     {
       "name": "Дзеркало",
-      "status": "ok",
+      "status": "error",
       "icon": "default"
     }
   ]
