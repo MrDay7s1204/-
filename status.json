@@ -1,6 +1,6 @@
 {
-  "overall": "error",
-  "reason": "Critical Infrastructure Is down!",
+  "overall": "ok",
+  "reason": "Усі системи працюють стабільно та без збоїв!",
   "services": [
     {
       "name": "Вебсайт",
@@ -9,7 +9,7 @@
     },
     {
       "name": "GitHub",
-      "status": "error",
+      "status": "ok",
       "icon": "github"
     },
     {
@@ -19,12 +19,12 @@
     },
     {
       "name": "Сервер",
-      "status": "down",
+      "status": "ok",
       "icon": "server"
     },
     {
       "name": "Дзеркало",
-      "status": "error",
+      "status": "ok",
       "icon": "default"
     }
   ]
